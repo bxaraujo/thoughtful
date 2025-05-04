@@ -11,4 +11,9 @@ sort(100, 100, 100, 10)
 ```
 
 ## How to Run tests:
+
+Install pytest dependency:
+```pip install -r requirements.txt```
+
+Now run pytest pointing to the test file:
 ```pytest -v test_robot_arm.py```
