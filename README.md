@@ -11,4 +11,4 @@ sort(100, 100, 100, 10)
 ```
 
 ## How to Run tests:
-```pytest -v test_sort_robot.py```
+```pytest -v test_robot_arm.py```
